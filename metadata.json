@@ -1,0 +1,8 @@
+{
+  "name": "PavanFullstackpro",
+  "description": "A serverless, peer-to-peer video conferencing application with a modern UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
